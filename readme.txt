@@ -1,5 +1,5 @@
 Git learn
-Git is free software
+Git is a free software
 Hello Git
 Hello World
 Branch test
